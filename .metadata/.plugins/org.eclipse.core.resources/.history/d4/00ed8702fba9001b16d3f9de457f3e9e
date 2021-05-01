@@ -1,0 +1,8 @@
+package javahomework2;
+
+public class StudentManager {
+		public void logIn(Student student) {
+			System.out.println(student.getStudentNumber()+" numaralı öğrenci giriş yaptı");
+		}
+		
+}

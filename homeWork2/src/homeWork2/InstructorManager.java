@@ -1,0 +1,8 @@
+ package homeWork2;;
+
+public class InstructorManager {
+		public void add(Instructor instructor) {
+			System.out.println(instructor.getInstructorFirstName()+" "+instructor.getInstructorLastName()
+			+" adlý eðitmen "+ instructor.getEducationName()+ " adlý eðitimi ekledi");
+		}
+}

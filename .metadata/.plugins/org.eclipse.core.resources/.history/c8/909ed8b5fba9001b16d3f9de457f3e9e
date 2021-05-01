@@ -1,0 +1,10 @@
+package homeWork2;
+
+public class UserManager {
+		public void add(User[] user) {
+			for(User users: user) {
+				
+			}
+			System.out.println(user.getUserName()+" adlý kullanýcý eklendi");
+		}
+}
